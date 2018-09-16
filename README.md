@@ -1,3 +1,3 @@
 # lauriprogrammieren
 
-Das sind meine Programmiereübungen
+Das sind meine Programmierübungen.
